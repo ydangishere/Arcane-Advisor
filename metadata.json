@@ -1,0 +1,7 @@
+{
+  "name": "Arcane Rush: Tactical Companion",
+  "description": "An AI-powered assistant for Arcane Rush players. Upload your game screen to get instant tactical advice on shop purchases, board positioning, and synergy optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
